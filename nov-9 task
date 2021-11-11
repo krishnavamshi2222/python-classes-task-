@@ -53,15 +53,15 @@ print(a[3:-3:-3])#
 a = "hello_world_python"
 
 print(a[::3])#hlwlph
-print(a[::-3])#
+print(a[::-3])#nt_r_l
 print(a[2::3])#l_r_tn
-print(a[3::-3])#
-print(a[:5:-2])#
-print(a[:5:5])#i
-print(a[::-1])#
+print(a[3::-3])#hl
+print(a[:5:-2])#_le
+print(a[:5:5])#_
+print(a[::-1])#nohtyp_dlrow_olleh
 print(a[::1])#hello_world_python
 print(a[::5])#h_dt
-print(a[::-5])#
+print(a[::-5])#npol
 
 "Innovative_minds_python_group"
 
