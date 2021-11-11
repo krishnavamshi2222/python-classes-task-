@@ -10,5 +10,5 @@ print(a[::2])#ifraintcnlg
 print(a[10:17:2])#ntcn
 print(a[10:100:2])#ntcnlg
 print(a[-20:-15:3])#fm
-print(a[10:20:10])#ng
-print(a[-20:-2:5])#fttn
+print(a[10:20:10])#n
+print(a[-20:-2:5])#ftto
